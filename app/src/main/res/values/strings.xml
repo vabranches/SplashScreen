@@ -1,18 +1,17 @@
 <resources>
-    <string name="app_name">Splash</string>
-    <string name="titulo">Time S2</string>
+    <string name="app_name" translatable="false">Splash</string>
+    <string name="titulo">Team S2</string>
     <string name="desenvolvido_por">By @vabranches</string>
-    <string name="hint_idade">Idade</string>
-    <string name="hint_nome">Nome</string>
+    <string name="hint_idade">Age</string>
+    <string name="hint_nome">Name</string>
 
-    <string name="selecione">Selecione o Time</string>
-    <string name="manchester">Manchester United</string>
-    <string name="arsenal">Arsenal</string>
-    <string name="chelsea">Chelsea</string>
-    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="selecione">Select a team</string>
+    <string name="manchester" translatable="false">Manchester United</string>
+    <string name="arsenal" translatable="false">Arsenal</string>
+    <string name="chelsea" translatable="false">Chelsea</string>
+    <string name="botao_cadastrar">Register</string>
 
-    <string name="confirmacao_cadastro">
-        Olá, %1$s! Parabéns por torcer pelo %2$s.
-    </string>
+    <string name="confirmacao_cadastro">Hi, %1$s! Congratulations to cheer for %2$s.</string>
+    <string name="label_confirm">Validate</string>
 
 </resources>

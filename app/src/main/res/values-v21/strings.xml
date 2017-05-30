@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="desenvolvido_por">By @vabranches</string>
+    <string name="desenvolvido_por" translatable="false">By @vabranches</string>
 </resources>

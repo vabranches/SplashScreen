@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Splash</string>
+    <string name="hint_nome">Nome</string>
+    <string name="selecione">Selecione um time</string>
+    <string name="hint_idade">Idade</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="titulo">Time S2</string>
+    <string name="confirmacao_cadastro">Olá, %1$s! Parabéns por torcer pelo %2$s.</string>
+    <string name="label_confirm">Confirmação</string>
+</resources>
